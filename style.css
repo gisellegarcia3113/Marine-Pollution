@@ -30,17 +30,20 @@ body {
   font-size: 100%;
 }
 
-h1 {
+h1 { font-family: 'Roboto Slab', serif;
   font-size: 3.5em; 
 }
 
-h2 {
+h2 { font-family: 'Lobster', cursive;
   font-size: 2em;
 }
 
-p {
+p { font-family: 'Crimson Text', serif;
   font-size: 1.5em;
 }
 ol{
-  font-size: 1.5em;
+  font-size: 1.5em;}
+   img scr="("https://i0.wp.com/www.mychesco.com/wp-content/uploads/2019/12/Water-utility.jpg?resize=735%2C400&ssl=1");" :hover {
+  opacity: 0.5;
 }
+
